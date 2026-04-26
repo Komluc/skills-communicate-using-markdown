@@ -1,5 +1,10 @@
 # Daily Learning
-## Morning Planning
+## Morning Planning level 1
+![Cloudy morning](https://octodex.github.com/images/cloud.jpg)
+- [ ] Check out the [github blog](https://github.blog/) for topic ideas.
+- [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
+- [ ] Convert my first blog post into an actual webpage.
+## Morning Planning level 2
 - [ ] Check out the [github blog](https://github.blog/) for topic ideas.
 - [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
 - [ ] Convert my first blog post into an actual webpage.
